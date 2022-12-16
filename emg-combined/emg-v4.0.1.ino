@@ -42,6 +42,10 @@ bool onOff = false; //set switch base case to OFF
 
 void setup() {  
   // initialize the buttons' inputs:
+  pinMode(up, INPUT);
+  pinMode(down, INPUT);
+  pinMode(left, INPUT);
+  pinMode(right, INPUT);
   pinMode(click, INPUT);
 
   Serial.begin(9600);
