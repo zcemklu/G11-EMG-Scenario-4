@@ -8,7 +8,6 @@ Folder description:
 3. emg-troubleshooting - codes for testing & troubleshooting
 
 How to use code files:
-
-Download code
-Open in Arduino IDE
-Upload to Arduino Leonardo board
+1. Download code
+2. Open in Arduino IDE
+3. Upload to Arduino Leonardo board
